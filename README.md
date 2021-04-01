@@ -2,7 +2,7 @@
 
 Place to play with Python
 
-
+`python3 --version`
 
 
 Virtual Environments
